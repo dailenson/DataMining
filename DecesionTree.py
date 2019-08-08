@@ -57,12 +57,3 @@ for i in range(n_nodes):#遍历整棵树输出所需信息
                  threshold[i],
                  Entropy[i] - (Entropy[IndL] * n_size[IndL] + Entropy[IndR] * n_size[IndR]) / n_size[i]
                  ))
-
-
-
-
-
-
-
-
-
