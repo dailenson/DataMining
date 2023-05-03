@@ -1,4 +1,4 @@
-# dataming
+# Dat Mming
 2018年春，DM课程作业
 - 决策树
 - Denclue聚类算法
